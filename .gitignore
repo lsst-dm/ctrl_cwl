@@ -1,0 +1,11 @@
+.sconf_temp
+.sconsign.dblite
+config.log
+python/lsst/ctrl/cwl/version.py
+tests/.tests
+ups/*.cfgc
+.cache
+.pytest_cache
+pytest_session.txt
+.coverage
+bin/*
